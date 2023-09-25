@@ -29,9 +29,8 @@ are drawn in the drawButton() method of MyButton.cpp.
 
 Send patches, layouts, lessons, artwork, ideas ... to "mataav@yahoo.co.uk"
 
-If you are unhappy with the requirement that the teacher-class version needs to be installed into a writable, shared folder then let me know (mataav@yahoo.co.uk) and I will consider writing a network server process (which also means that it could work with many clients installed in different places). Or you could even do it yourself.
+If you are unhappy with the requirement that the teacher-class version needs to be installed into a writable, shared folder then let me know (mataav@yahoo.co.uk) and I will consider writing a network server process (which also means that it could work with many clients installed in different places). 
 
 P.S. I would like the game to support more languages, so perhaps a font
 renderer like: gltext.sourceforge.net or oglft.sourceforge.net 
-could be used (this would also mean that glut would no longer be needed)
-P.P.S Another game would be nice or just improve the current one.
+could be used
